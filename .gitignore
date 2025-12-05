@@ -1,0 +1,21 @@
+# Секретные ключи и конфиги (НИКОГДА не загружайте!)
+credentials.json
+.env
+*.key
+
+# Виртуальное окружение Python и кэш
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Служебные файлы редакторов кода
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
